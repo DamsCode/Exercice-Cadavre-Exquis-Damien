@@ -46,3 +46,9 @@ Le chat miaule, le loup hurle, test one two.
 <br/>Basiquement un gros adbomen rond... avec des dents. Sinon ça n'a aucun sens. 
 <br/>
 >>>>>>> 1ab5a8188c4f414e1348f3100bc503c0d79ae9a8
+
+*ajout ismail*
+
+Mais pour donner un sens à une histoire il faut donner une direction . Je propose le N-E ca me plait , il fait froid et les personnages vont se les geler ca peut être sympa 
+
+*fin d'ajout*
