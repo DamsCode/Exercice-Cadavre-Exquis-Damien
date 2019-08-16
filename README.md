@@ -52,3 +52,5 @@ Le chat miaule, le loup hurle, test one two.
 Mais pour donner un sens à une histoire il faut donner une direction . Je propose le N-E ca me plait , il fait froid et les personnages vont se les geler ca peut être sympa 
 
 *fin d'ajout*
+
+Voilà donc nos personnages aux portes d'un Goulag russes des plus sympathiques. Peu de nourritures permettront à nos héros de se refaire une santé mais surtout leur permettront de se forger un mental d'acier. 
