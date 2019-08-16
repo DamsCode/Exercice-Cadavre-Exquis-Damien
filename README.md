@@ -32,9 +32,17 @@ Il était une fois une belle petite panthère qui allait avoir un petit frère, 
 
 # Le loup 
 Le chat miaule, le loup hurle, test one two.
+<<<<<<< HEAD
 
 #Il eu son premier permis  
 ###Il acheta une voiture  
 *Il oublia de mettre de l'escence et tomba en panne*  
 
 
+=======
+<br/>
+<br/>Cette histoire n'ayant déjà ni queue ni tête, il est temps d'introduire un antagoniste pourvu ni de l'un, ni de l'autre. 
+<br/> **BEHOLD** Le terrifiant, le redoutable, le **terrrrrrible Ploup**, monstre sans aucune extrémité (ne me demandez pas comment il se reproduit)... 
+<br/>Basiquement un gros adbomen rond... avec des dents. Sinon ça n'a aucun sens. 
+<br/>
+>>>>>>> 1ab5a8188c4f414e1348f3100bc503c0d79ae9a8
