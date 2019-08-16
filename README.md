@@ -1,6 +1,7 @@
 # Le coq et le renard
 
-Il était une fois un coq et un renard
+Il était une fois un coq et un renard qui aimaient se promener en ville et faire la tournée des bars.
+
 
 # Les fleurs de Bhaal
 
