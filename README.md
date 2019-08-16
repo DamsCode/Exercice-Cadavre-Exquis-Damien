@@ -34,8 +34,8 @@ Il était une fois une belle petite panthère qui allait avoir un petit frère, 
 Le chat miaule, le loup hurle, test one two.
 <<<<<<< HEAD
 
-#Il eu son premier permis  
-###Il acheta une voiture  
+# Il eu son premier permis  
+### Il acheta une voiture  
 *Il oublia de mettre de l'escence et tomba en panne*  
 
 
