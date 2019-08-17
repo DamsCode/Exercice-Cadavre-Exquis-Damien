@@ -41,7 +41,7 @@ Le chat miaule, le loup hurle, test one two.
 
 =======
 <br/>
-<br/>Cette histoire n'ayant déjà ni queue ni tête, il est temps d'introduire un antagoniste pourvu ni de l'un, ni de l'autre. 
+<br/>Cette histoire n'ayant déjà ni queue ni tête, il est temps d'introduire un antagit pusgoniste pourvu ni de l'un, ni de l'autre. 
 <br/> **BEHOLD** Le terrifiant, le redoutable, le **terrrrrrible Ploup**, monstre sans aucune extrémité (ne me demandez pas comment il se reproduit)... 
 <br/>Basiquement un gros adbomen rond... avec des dents. Sinon ça n'a aucun sens. 
 <br/>
